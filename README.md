@@ -29,6 +29,17 @@ I aspire to build robust and efficient backend systems using **Python** and cont
 
 ---
 
+## 🖥️ Coding Language Stats  
+![Languages Used](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=dixit-00&theme=radical)  
+![Most Used Languages](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=dixit-00&theme=radical)  
+
+---
+
+## 📷 Coding Activity Stats  
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=dixit-00&theme=radical)  
+
+---
+
 ## 🔗 Let's Connect!  
 Feel free to reach out if you'd like to collaborate or discuss ideas. I'm always eager to learn and share knowledge! 🚀  
 
