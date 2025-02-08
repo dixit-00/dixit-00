@@ -24,6 +24,11 @@ I aspire to build robust and efficient backend systems using **Python** and cont
 
 ---
 
+## 🔥 LeetCode Heatmap  
+[![LeetCode Heatmap](https://leetcard.jacoblin.cool/dixit_malviyaa?theme=dark&ext=heatmap)](https://leetcode.com/u/dixit_malviyaa/)  
+
+---
+
 ## 🔗 Let's Connect!  
 Feel free to reach out if you'd like to collaborate or discuss ideas. I'm always eager to learn and share knowledge! 🚀  
 
