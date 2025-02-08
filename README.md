@@ -11,7 +11,7 @@ I'm deeply interested in:
 - ![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=white) **React** – I love creating dynamic and interactive front-end experiences.  
 - ![Swift](https://img.shields.io/badge/-Swift-FA7343?style=flat&logo=swift&logoColor=white) **Swift** – Exploring iOS development and Apple’s ecosystem.  
 - ![LeetCode](https://img.shields.io/badge/-LeetCode-FFA116?style=flat&logo=leetcode&logoColor=white) **LeetCode** – Practicing **DSA** and problem-solving to enhance my coding skills.  
-  - 🔗 [My LeetCode Profile](https://leetcode.com/u/dixit_malviyaa/)  
+  
 
 ## 🎯 My Goal  
 I aspire to build robust and efficient backend systems using **Python** and contribute to innovative software development projects.  
@@ -32,8 +32,7 @@ I aspire to build robust and efficient backend systems using **Python** and cont
 ## 🖥️ Programming Languages  
 Here are the languages I actively work with:  
 
-![Python](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white)  
-![Java](https://img.shields.io/badge/-Java-007396?style=for-the-badge&logo=java&logoColor=white)  
+![Python](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white)  ![Java](https://img.shields.io/badge/-Java-007396?style=for-the-badge&logo=java&logoColor=white)  
 ![React](https://img.shields.io/badge/-React-61DAFB?style=for-the-badge&logo=react&logoColor=white)  
 ![Swift](https://img.shields.io/badge/-Swift-FA7343?style=for-the-badge&logo=swift&logoColor=white)  
 ![C](https://img.shields.io/badge/-C-A8B9CC?style=for-the-badge&logo=c&logoColor=white)  
