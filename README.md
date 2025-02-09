@@ -30,7 +30,4 @@ I aspire to build robust and efficient backend systems using **Python** and cont
 
 
 
-## 🔗 Let's Connect!  
-Feel free to reach out if you'd like to collaborate or discuss ideas. I'm always eager to learn and share knowledge! 🚀  
 
-[![LeetCode](https://img.shields.io/badge/LeetCode-000?style=for-the-badge&logo=leetcode&logoColor=FFA116)](https://leetcode.com/u/dixit_malviyaa/)  
