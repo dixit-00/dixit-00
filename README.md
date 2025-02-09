@@ -9,7 +9,7 @@ I'm deeply interested in:
  
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white)  ![Java](https://img.shields.io/badge/-Java-007396?style=for-the-badge&logo=java&logoColor=white)  ![React](https://img.shields.io/badge/-React-61DAFB?style=for-the-badge&logo=react&logoColor=white)  ![Swift](https://img.shields.io/badge/-Swift-FA7343?style=for-the-badge&logo=swift&logoColor=white)  ![C](https://img.shields.io/badge/-C-A8B9CC?style=for-the-badge&logo=c&logoColor=white)  ![C++](https://img.shields.io/badge/-C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)  ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)  
 
-- ![LeetCode](https://img.shields.io/badge/-LeetCode-FFA116?style=flat&logo=leetcode&logoColor=white) **LeetCode** – Practicing **DSA** and problem-solving to enhance my coding skills.  
+[![LeetCode](https://img.shields.io/badge/LeetCode-000?style=for-the-badge&logo=leetcode&logoColor=FFA116)](https://leetcode.com/u/dixit_malviyaa/) **LeetCode** – Practicing **DSA** and problem-solving to enhance my coding skills.  
   
 
 ## 🎯 My Goal  
@@ -28,10 +28,7 @@ I aspire to build robust and efficient backend systems using **Python** and cont
 
 ---
 
-## 🖥️ Programming Languages  
-Here are the languages I actively work with:  
 
----
 
 ## 🔗 Let's Connect!  
 Feel free to reach out if you'd like to collaborate or discuss ideas. I'm always eager to learn and share knowledge! 🚀  
