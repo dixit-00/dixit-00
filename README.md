@@ -20,8 +20,7 @@ I aspire to build robust and efficient backend systems using **Python** and cont
 
 ## 📊 GitHub Stats  
 ![Dixit's GitHub Stats](https://github-readme-stats.vercel.app/api?username=dixit-00&show_icons=true&theme=radical)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=dixit-00&layout=compact&theme=radical&langs_count=8&hide=html,css&langs_count=10)
-
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=dixit-00&layout=compact&theme=radical&langs_count=8&hide=html,css) add the javascript
 ---
 
 ## 🔥 LeetCode Heatmap  
