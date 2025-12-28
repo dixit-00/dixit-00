@@ -19,9 +19,13 @@ I aspire to build robust and efficient backend systems using **Python** and cont
 
 ---
 
-## 📊 GitHub Stats  
-![Dixit's GitHub Stats](https://github-readme-stats.vercel.app/api?username=dixit-00&show_icons=true&theme=radical)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=dixit-00&layout=compact&theme=radical&langs_count=8&hide=html,css,c,c++)
+## 🚀 GitHub Performance Dashboard
+
+![GitHub Streak](https://streak-stats.demolab.com?user=dixit-00&theme=radical&hide_border=true)
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=dixit-00&show_icons=true&theme=radical&rank_icon=github&include_all_commits=true&count_private=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=dixit-00&layout=donut&theme=radical&langs_count=10&hide=html,css,c,c++)
 
 
 ---
